@@ -70,6 +70,24 @@ $ mau deploy
 
 With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
+
+
+
+## RETO
+
+Refactorización de Arquitectura y Limpieza de Código en NestJS.
+Objetivo: Pasar de un código "que funciona" a un código escalable, mantenible y digno de un Líder Técnico.
+
+Tu Misión:
+
+1. Auditoría Técnica: Identifica y documenta en un archivo de texto (o en la descripción de tu Pull Request) al menos 5 malas prácticas o errores de arquitectura en este módulo. ejemplo archivo "pull_request_template.md"
+
+2. Refactorización: Reescribe el código proporcionado para que sea profesional, implementando principios SOLID y las mejores prácticas de NestJS.
+
+3. Justificación: Explica por qué tus cambios mejoran la salud del proyecto a largo plazo. (o en la descripción de tu Pull Request) al menos 5 malas prácticas o errores de arquitectura en este módulo. ejemplo archivo "pull_request_template.md"
+
+
+
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
